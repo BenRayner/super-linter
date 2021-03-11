@@ -73,7 +73,7 @@ jobs:
             BUILD_VERSION=${{ github.sha }}
           push: true
           tags: |
-            BenRayner/super-linter:latest
-            BenRayner/super-linter:v1
-            ghcr.io/BenRayner/super-linter:latest
-            ghcr.io/BenRayner/super-linter:v1
+            benrayner/super-linter:latest
+            benrayner/super-linter:v1
+            ghcr.io/benrayner/super-linter:latest
+            ghcr.io/benrayner/super-linter:v1
